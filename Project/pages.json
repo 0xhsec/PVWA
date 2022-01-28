@@ -1,0 +1,8 @@
+[
+    { "name":"xss", "page": "2" },
+    { "name":"sqli", "page": "2" },
+    { "name":"csrf", "page": "2" },
+    { "name":"ssrf", "page": "2" },
+    { "name":"practice", "page": "4" }
+
+   ]
